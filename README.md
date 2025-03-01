@@ -28,4 +28,4 @@
 ### Сбор данных
 Непосредственно сам [парсер](https://colab.research.google.com/drive/13t22tt7jzFGyXVVsXf9Ht8DUD6TGE5Mi?usp=sharing)
 
-Полученный файл с базой данных []()
+Полученный файл с базой данных: [психологи](https://github.com/ZalexZimina/Psychologists-alter.ru/blob/main/psychologists_data.csv)
