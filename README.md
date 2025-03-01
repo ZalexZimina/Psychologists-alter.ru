@@ -26,6 +26,17 @@
 - Раздел "О себе" (текст, будем дополнительно обрабатывать)
 
 ### Сбор данных
-Непосредственно сам [парсер](https://colab.research.google.com/drive/13t22tt7jzFGyXVVsXf9Ht8DUD6TGE5Mi?usp=sharing)
+Непосредственно сам [парсер](https://colab.research.google.com/drive/13t22tt7jzFGyXVVsXf9Ht8DUD6TGE5Mi?usp=sharing), в котором собрали все вышеперечисленное в одну таблицу
 
 Полученный файл с базой данных: [психологи](https://github.com/ZalexZimina/Psychologists-alter.ru/blob/main/psychologists_data.csv)
+
+### Предварительная обработка и создание новых признаков
+*in progress...*
+
+### Визуализация
+*in progress...*
+
+### Гипотезы 
+*in progress...*
+
+### ML-ка?? хз успеем ли??
