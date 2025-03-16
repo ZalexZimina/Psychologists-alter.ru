@@ -32,7 +32,7 @@
 ### Сбор данных
 Непосредственно сам [парсер](https://github.com/ZalexZimina/Psychologists-alter.ru/blob/main/01_parser.ipynb), в котором собрали все вышеперечисленное в одну таблицу 
 
-Полученный файл с базой данных: [психологи](https://github.com/ZalexZimina/Psychologists-alter.ru/blob/main/psychologists_data.csv) + [файлики, которые мы использовали при парсинге](https://github.com/ZalexZimina/Psychologists-alter.ru/blob/main/файлы%20для%20парсера)
+Полученный файл с базой данных: [психологи](https://github.com/ZalexZimina/Psychologists-alter.ru/blob/main/psychologists_data.csv) + [доп файлики с отдельными признаками](https://github.com/ZalexZimina/Psychologists-alter.ru/blob/main/файлы%20для%20парсера)
 
 ### Предварительная обработка и создание новых признаков
 
